@@ -1,3 +1,46 @@
+libextutils-config-perl (0.010-1) unstable; urgency=medium
+
+  * Import upstream version 0.010.
+
+ -- gregor herrmann <gregoa@debian.org>  Sun, 18 Aug 2024 17:19:39 +0200
+
+libextutils-config-perl (0.009-1) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Update upstream metadata fields: Repository-Browse.
+
+  [ gregor herrmann ]
+  * Import upstream version 0.009.
+  * Update debian/upstream/metadata.
+  * Update years of packaging copyright.
+  * Declare compliance with Debian Policy 4.7.0.
+  * Update test dependencies.
+
+ -- gregor herrmann <gregoa@debian.org>  Sat, 27 Apr 2024 21:18:42 +0200
+
+libextutils-config-perl (0.008-4) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Apply multi-arch hints. + libextutils-config-perl: Add Multi-Arch: foreign.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Thu, 13 Oct 2022 19:40:41 +0100
+
+libextutils-config-perl (0.008-3) unstable; urgency=medium
+
+  [ Salvatore Bonaccorso ]
+  * Update Vcs-* headers for switch to salsa.debian.org
+
+  [ gregor herrmann ]
+  * debian/watch: use uscan version 4.
+
+  [ Debian Janitor ]
+  * Bump debhelper from old 10 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Set upstream metadata fields: Bug-Database, Repository, Repository-
+    Browse.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Mon, 13 Jun 2022 21:51:21 +0100
+
 libextutils-config-perl (0.008-2) unstable; urgency=medium
 
   * Team upload.
